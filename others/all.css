@@ -1,0 +1,111 @@
+.title{
+    color: white;
+    font-variant: small-caps;
+	font-family: 'Droid Serif', Georgia, Times, serif;
+	font-size: 49px;
+	line-height: 65px
+}
+.but{
+    font-family: 'Droid Serif', Georgia, Times, serif;
+    font-size: 30px;
+    width: 100%;
+    line-height: 50px; 
+    margin:auto;
+}
+.but1{
+    font-family: 'Droid Serif', Georgia, Times, serif;
+    line-height: 20px;
+    float:right;
+    font-size: 30px;
+}
+.alert{
+    width:110px;
+}
+.btn{
+    height: 40px;
+}
+.link1{
+    font-family: 'Droid Serif', Georgia, Times, serif;
+    font-size: 26px;
+    line-height: inherit;
+    color: black;
+}
+.size1:hover{
+    border: 0px solid black;
+    background-color: lightgrey;
+}
+.link1:hover{
+    text-decoration: none;
+    color:black;
+}
+.size2{
+    font-family: 'Droid Serif', Georgia, Times, serif;
+    font-size: 20px;
+}
+.btn:hover{
+    background-color: lightgrey;
+}
+.size3{
+    font-family: 'Droid Serif', Georgia, Times, serif;
+    font-size: 20px;
+    border: 0px solid red;
+    background-color: rgb(240,240,240);
+    color:black;
+    width: 160px;
+    line-height: 50px; 
+    margin:auto;
+    padding:8px;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+.size3:active{
+    border-bottom: 0px solid white;
+    border-right: 0px solid white;
+}
+.disabled{
+    font-family: 'Droid Serif', Georgia, Times, serif;
+    font-size: 20px;
+    border: 0px solid red;
+    background-color: rgb(240,240,240);
+    width: 160px;
+    line-height: 50px; 
+    margin:auto;
+    padding:8px;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    color:rgb(160,160,160);
+}
+.dis{
+    background-color: rgb(160,160,160);
+}
+.disabled:hover{
+    text-decoration: none;
+    background-color: rgb(240,240,240);
+    color: rgb(160,160,160); 
+    cursor: pointer;
+}
+.justify-content-center{
+    text-indent: 100px;
+}
+.size3:hover{
+    text-decoration: none;
+    background-color: lightgrey;
+    color: black;
+}
+.quesnum{
+    color: #333333;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    font-size: 50px;
+    border: 2px solid black;
+    text-decoration: none;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.quesnum:hover{
+    cursor:pointer;
+    color: #333333;
+    text-decoration: none;
+}
+.active1{
+    background-color: rgb(240,240,240);
+}
