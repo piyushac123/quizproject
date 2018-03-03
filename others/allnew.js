@@ -1,5 +1,5 @@
 document.getElementById('timer').innerHTML =
- 05 + ":" + 00;
+ 01 + ":" + 00;
 startTimer();
 
 function startTimer() {
@@ -9,7 +9,7 @@ function startTimer() {
   var s = checkSecond((timeArray[1] - 1));
   if(s==59){m=m-1}
   if(m==0&&s==0){alert('timer completed');
-         window.location.href="https://github.com/NachiketE/Result-page/blob/master/result.html"
+         window.location.href="https://css-tricks.com/redirect-web-page/"
    }
   
   document.getElementById('timer').innerHTML =
