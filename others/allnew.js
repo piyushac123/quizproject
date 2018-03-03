@@ -1,5 +1,5 @@
 document.getElementById('timer').innerHTML =
- 01 + ":" + 00;
+ 05 + ":" + 00;
 startTimer();
 
 function startTimer() {
