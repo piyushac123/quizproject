@@ -1,0 +1,10 @@
+1|Who is the winner of the US Open 2019 Men's title?|Roger Federer|Rafael Nadal |Daniil Medvedev |Novak Djokovic|Rafael Nadal
+2|Which of the following is not fit in the match?|French Open|US Open|Australian Open|Cincinnati Masters|Cincinnati Masters
+3|What is the new name of Feroz Shah Kotla ground?|Arun Jaitley  Stadium|Sheila Dikshit Stadium|Gautam Gambhir Stadium|Ajit Wadekar Stadium|Arun Jaitley  Stadium
+4|Which of the following region has won the Ranji Trophy tournament 2019?|Saurashtra|Mumbai|Vidarbha|Rajasthan|Vidarbha
+5|Which of the following statement is not correct about ICC World Cup 2019?|It was the 12th edition of the ICC Cricket World Cup |Rohit Sharma has scored 6 centuries in this tournament|Australia Mitchell Starc was the leading wicket-taker in the tournament|Mohammad Shami and Trent Boult took the hat trick in this tournament|Rohit Sharma has scored 6 centuries in this tournament
+6|Which of the following trophy is not related to Cricket in India?|Syed Mushtaq Ali Trophy|Deodhar Trophy|Santosh Trophy|Duleep Trophy|Santosh Trophy
+7|Who got FIFA Best Player 2019 Award?|Neymar|L. Messi|C. Ronaldo|Luka Mordic|L. Messi
+8|Which of the following is not matched correctly?|Pankaj Advani: Billiards|Anjali Bhagwat: Shooting|Muhammed Anas Yahiya: Boxing|Deepa Malik: Athletics|Muhammed Anas Yahiya: Boxing
+9|Pankaj Advani recently won his 22nd World Billiards Title 2019. This tournament is held in.. |Malaysia|Myanmar|India|Russia|Myanmar
+10|Who has won the Rajiv Gandhi Khel Ratna Award 2019?|Sakshi Malik|Mirabai Chanu|Bajrang Punia|None of the above|Bajrang Punia

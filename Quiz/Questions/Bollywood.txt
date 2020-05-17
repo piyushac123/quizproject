@@ -1,0 +1,16 @@
+1|Which film won the award for best film at the 63rd Filmfare Award held 2018?|Badrinath Ki Dulhania|Hindi Medim|Bareilly Ki Barfi|None of these|Hindi Medium
+2|Who was the director of the famous movie 'Sholay'?|Mehboob Khan|Shakti Samanta|Ramesh Sippy|None of these|Ramesh Sippy
+3|Who was the director of the famous movie 'Mother India'?|K. Asif|Mehboob Khan|Kanhaiyalal|None of these|Mehboob Khan
+4|Which was the first Cinemascope film in Bollywood?|Naya Daur|Sholay|Kaagaz Ke Phool|None of these|Kaagaz Ke Phool
+5|Who was known as first lady of Indian cinema?|Meena Kumari|Devika Rani Chaudhuri|Suraiya|None of these|Devika Rani Chaudhuri
+6|Who was the first Indian actress to receive the Padma Shri award?|Bhanumathi Ramakrishna|Meena Kumari|Nargis Dutt|None of these|Nargis Dutt
+7|Which was the first 3D movie in India?|Chhota Chetan|My Dear Kuttichathan|Roadside Romeo|None of these|My Dear Kuttichathan
+8|Who was the director of famous movie Mughal-E-Azam?|K. Asif|Mehboob Khan|S. Ali Raza|None of these|K. Asif
+9|Who was Father of Indian Cinema?|Amitabh Bachchan|Dadasaheb Phalke|Guru Dutt|Prithviraj Kapoor|Dadasaheb Phalke
+10|Who won Dada Saheb Phalke Award in 2018?|Vinod Khanna|Shashi Kapoor|Kasinathuni Viswanath|None of these|Vinod Khanna
+11|Who is the director of movie 'Lagaan'?|Aamir Khan|Sajid Khan|Ashutosh Gowariker|None of these|Ashutosh Gowariker
+12|Which of these Indian movies did not get nominated for Best Foreign Language Film at the Oscars?|Mother India|Slumdog Millionaire|Lagaan|None of these|Slumdog Millionaire
+13|Which movie has been chosen as the India's official entry to Oscar 2019?|Newton|Smile Pinki|Village Rockstars|None of these|Village Rockstars
+14|Which actor wins the best actor award in the 2018 Filmfare Awards?|Irrfan Khan|Aamir Khan|Shah Rukh Khan|None of these|Irrfan Khan
+15|How many times AR Rahman was nominated for Oscar?|4|1|2|3|2
+16|How many Oscar awards was won by 'Slumdog Millionaire' movie?|5|10|8|12|8
